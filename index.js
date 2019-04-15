@@ -8,6 +8,7 @@ function yourAnimal() {
   // How can we make sure that this function
   // and the above function both pass?
   // P.S.: You can't just hard-code 'cat' below
+  //what are you looking for in this? an if statment? sorry if that is the case because this is all i can think of in order to solve the problem
   animal = "cat"
   return animal
 }
